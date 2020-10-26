@@ -9,7 +9,7 @@ const NewTodo = ({ createTodo }) => {
     if (task.trim()) {
       createTodo({ task });
     } else {
-      setNotification('Please type a task');
+      setNotification('Please provide a task');
       setTimeout(() => {
         setNotification(null);
       }, 3000);

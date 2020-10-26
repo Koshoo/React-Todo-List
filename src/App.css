@@ -28,8 +28,6 @@ body {
   margin: 0.5rem 0;
   font-family: 'Roboto', sans-serif;
 }
-.notification {
-}
 
 .no-todos {
   margin: 0.6rem 0;
@@ -107,6 +105,12 @@ body {
 
 .todo-task {
   cursor: pointer;
+  width: 100%;
+}
+
+.toggle-done {
+  transform: scale(1.7);
+  padding: 10px;
 }
 
 .delete-button {
