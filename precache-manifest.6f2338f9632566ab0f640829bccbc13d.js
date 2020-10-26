@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3eb5102aa53e9cdaf88119f61d44f3e9",
+    "revision": "fa208a34cb0d002df1f12f086b520f1e",
     "url": "/todo-list-app/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/todo-list-app/static/css/2.e88b5d1d.chunk.css"
   },
   {
-    "revision": "c6cdfc8d2403c8766659",
-    "url": "/todo-list-app/static/css/main.60a4b37e.chunk.css"
+    "revision": "8bfa655e04dd42e7a2eb",
+    "url": "/todo-list-app/static/css/main.2a908647.chunk.css"
   },
   {
     "revision": "73d7e509bee93eddaa57",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/todo-list-app/static/js/2.e650e92a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c6cdfc8d2403c8766659",
-    "url": "/todo-list-app/static/js/main.b3618958.chunk.js"
+    "revision": "8bfa655e04dd42e7a2eb",
+    "url": "/todo-list-app/static/js/main.94f94c1d.chunk.js"
   },
   {
     "revision": "c2aabda8dc833d66876b",
